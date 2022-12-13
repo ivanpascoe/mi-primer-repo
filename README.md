@@ -27,3 +27,5 @@ Repositorio de práctica como Padawan informático del Sensei Jeef
 * como mi vida antes de programar
   
 ---
+
+Aqui estuvo el Jeff 💩
