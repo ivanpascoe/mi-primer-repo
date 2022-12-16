@@ -1,0 +1,38 @@
+
+
+{ 
+     "nombre": "Sinhu",
+      "edad": 31,
+      "altura": 1.82,
+      "genero": "M", 
+      "Lugar":  "ISIMA", 
+      "periodo": 3 ,
+      "fallece": "Avandaro",
+       "color": "Purple",
+  "id": "210",
+  "composition": {
+    "R": 70,
+    "G": 39,
+    "B": 89
+  },
+  "empty_object": {}
+
+
+,"personaJSON": {
+  "nombre": "Sinhu",
+   "edad": 31,
+   "altura": 1.82,
+   "genero": "M", 
+   "lugar":  "ISIMA", 
+   "periodo": 3 ,
+   "fallece": "Avandaro"} 
+
+   { "cliente": "cliente "}
+   cliente += "Nombre: " + personaJSON.nombre + "<br/>"; 
+   cliente += "Edad : " + personaJSON.edad + "<br/>";
+   cliente += "Altura : " + personaJSON.altura + "<br/>";
+   cliente += "Género : " + personaJSON.genero + "<br/>";
+   cliente += "Lugar : " + personaJSON.lugar + "<br/>";
+   cliente += "periodo : " + personaJSON.periodo + "<br/>";
+   cliente += "fallece : " + personaJSON.fallece + "<br/>"]
+} 
