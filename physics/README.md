@@ -1,21 +1,16 @@
 # Physics
 
-**TODO: Add description**
+## Ddocumento de práctica en Elixir
 
-## Installation
+ 1. Módulos
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `physics` to your list of dependencies in `mix.exs`:
+   *Cada múdulo agrupa una serie de funciones determinadas, las cuales se puede invocar y procesar de forma invariable*
 
-```elixir
-def deps do
-  [
-    {:physics, "~> 0.1.0"}
-  ]
-end
-```
+ 2. Funciones
+   
+   *Determinaciones que representan u avalor o una serie de valores, vilculados a una definición.*
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/physics>.
+ 3. Operaciones
+   
+ 4. Pipes
 
