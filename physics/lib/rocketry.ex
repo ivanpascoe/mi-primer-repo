@@ -22,7 +22,7 @@ defmodule Physics.Rocketry do
       |> square_root
   end
 
-  def orbital_acceleration(height, mass, radius), do
+  def orbital_acceleration(height, mass, radius), do:
 		orbital_speed(height, mass, radius) |> squared()
 
   defp orbital_radius(height, radius), do: radius + (height |> to_meters())
