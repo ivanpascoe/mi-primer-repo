@@ -1,4 +1,4 @@
-defmodule Physics.Rocketry do
+defmodule Rocketry do
 
   import Converter
   import Calcs

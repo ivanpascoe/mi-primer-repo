@@ -1,8 +1,14 @@
 defmodule Physics do
   @moduledoc """
   Documentation for `Physics`.
-  #The mass of mars is 6.9e23kg and its radius is 3.4e6m.
-  #The mass of the moon is 7.35e22kg and  the raidus is 1.738e6m
+  #This is a guided exercise to know the funciolalities and basicaly learn how
+  to code with elixir.
+
+  #The content itself is following the "Take off with elixir" course and is
+  basically abut rocket science.
+
+  #Everything else is just functional coding along some mistakes and experiments,
+  of course.
 
   """
 
